@@ -7,5 +7,9 @@
 </head>
 <body>
     
+    <a href="{{ route('products.create') }}">
+        <button>Add Product</button>
+    </a>
+
 </body>
 </html>
